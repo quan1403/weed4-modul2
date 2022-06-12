@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f002604a-483e-4a38-b434-64b72945b50c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/baithithuchanh1/src/io/WriteAndReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/Controllers/ManagerStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/Controllers/ManagerStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/danhsachSV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/danhsachSV.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/models/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/out/production/baithithuchanh1/models/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/src/Controllers/ManagerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/src/Controllers/ManagerStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/src/danhsachSV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/src/danhsachSV.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithithuchanh1/src/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/baithithuchanh1/src/models/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dethithuchanh/src/Controllers/ManagerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/dethithuchanh/src/Controllers/ManagerStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dethithuchanh/src/models/SortTangDan.java" beforeDir="false" afterPath="$PROJECT_DIR$/dethithuchanh/src/models/SortTangDan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dethithuchanh/src/models/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/dethithuchanh/src/models/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/baithithuchanh1" />
+  </component>
+  <component name="ProjectId" id="29rxwIkmDbrbYLRNPUnlToA7XuX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/weed4-module2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f002604a-483e-4a38-b434-64b72945b50c" name="Changes" comment="" />
+      <created>1653885245083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653885245083</updated>
+      <workItem from="1653885246122" duration="22000" />
+      <workItem from="1654076085521" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
